@@ -5,12 +5,12 @@
 }
 @font-face {
   font-family: "Lexend Giga";
-  src: url(/font/static/LexendGiga-Regular.ttf);
+  src: url(LexendGiga-Regular.ttf);
 }
 
 @font-face {
   font-family: "inter";
-  src: url(/font/static/Inter-Regular.ttf);
+  src: url(Inter-Regular.ttf);
 }
 html {
   scroll-behavior: smooth;
